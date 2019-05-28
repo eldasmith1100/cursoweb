@@ -1,0 +1,30 @@
+linter-php // para correcion de php
+emmet // para completar html
+php-hyperclick // busqueda de archivos
+minimap // 
+pigments
+highligh-selected
+color-picker
+atom-beautify
+Actives powe mode // opcion de juevo en el menu
+	// activar o desarctivas -> Ctrl + Alt +o
+
+
+atom-2048 // game
+
+
+
+
+linter-alex: controla que escribas mejor, sobretodo útil en los comentarios.
+linter-csslint: control de errores en archivos CSS.
+linter-jscs: control de errores en archivos JavaScript.
+linter-jsonlint: control de errores en archivos JSON.
+linter-php: control de errores en archivos PHP.
+linter-phpcs: control de errores en archivos PHP utilizando PHP_CodeSniffer (útil para las guías de estilo de WordPress).
+linter-shellcheck: control de errores en scripts de SHELL.
+linter-swagger: control de errores en definiciones de API hechas con Swagger.
+linter-write-good: control de errores cuando escribes en Inglés.
+linter-xmllint: control de errores en archivos XML.
+
+
+git-plus
