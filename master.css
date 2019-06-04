@@ -1,6 +1,11 @@
 .titulo_1{
   background-color: #E015E3;
-  text-align: right;
+  text-align: center;
+  border:15px solid #084684;
+  margin-top: 30px;
+  margin-right: 100px;
+  margin-bottom: 30px;
+  margin-left: 100px;
 }
 p{
   color: #024b28;
