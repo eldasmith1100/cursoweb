@@ -1,3 +1,6 @@
+.tabla_1{
+  text-align: center;
+}
 .titulo_1{
   background-color: #E015E3;
   text-align: center;
@@ -8,7 +11,7 @@
   margin-left: 100px;
 }
 p{
-  color: #024b28;
+  color: blue;
   font-size: 15px;
   font-style: bold;
   font-weight: bold;
